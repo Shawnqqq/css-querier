@@ -320,7 +320,7 @@ const css=[{
 },{
   title:'布局',
   title_en:'Layout',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'clear',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/clear'
@@ -346,7 +346,7 @@ const css=[{
 },{
   title:'定位',
   title_en:'Positioning',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'position',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/position'
@@ -372,7 +372,7 @@ const css=[{
 },{
   title:'列表',
   title_en:'List',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'list-style',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/list-style'
@@ -389,7 +389,7 @@ const css=[{
 },{
   title:'表格',
   title_en:'Table',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'table-layout',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/table-layout'
@@ -409,7 +409,7 @@ const css=[{
 },{
   title:'用户界面',
   title_en:'User Interface',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'box-sizing',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/box-sizing'
@@ -462,7 +462,7 @@ const css=[{
 },{
   title:'伸缩盒（新）',
   title_en:'Flexible Box',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'flex',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/flex'
@@ -503,7 +503,7 @@ const css=[{
 },{
   title:'多列',
   title_en:'Multi-column',
-  color:'#3d96df',
+  color:'#a0d468',
   list:[{
     item:'columns',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/columns'
@@ -576,7 +576,7 @@ const css=[{
 },{
   title:'长度单位',
   title_en:'Length',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'em'
   },{
@@ -607,7 +607,7 @@ const css=[{
 },{
   title:'角度问题',
   title_en:'Angle',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'deg'
   },{
@@ -620,7 +620,7 @@ const css=[{
 },{
   title:'时间单位',
   title_en:'Time',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'s'
   },{
@@ -629,7 +629,7 @@ const css=[{
 },{
   title:'频率单位',
   title_en:'Frequency',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'Hz'
   },{
@@ -638,7 +638,7 @@ const css=[{
 },{
   title:'尺寸',
   title_en:'Dimension',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'width',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/width'
@@ -661,7 +661,7 @@ const css=[{
 },{
   title:'外边距',
   title_en:'Margin',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'margin',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/margin'
@@ -681,7 +681,7 @@ const css=[{
 },{
   title:'内边距',
   title_en:'Padding',
-  color:'rgb(212, 105, 226)',
+  color:'#4fc1e9',
   list:[{
     item:'padding',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/padding'
@@ -701,7 +701,7 @@ const css=[{
 },{
   title:'边框',
   title_en:'Border',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'border',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/border'
@@ -802,7 +802,7 @@ const css=[{
 },{
   title:'背景',
   title_en:'Background',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'background',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/background'
@@ -834,7 +834,7 @@ const css=[{
 },{
   title:'颜色',
   title_en:'Color',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'color',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/color'
@@ -845,7 +845,7 @@ const css=[{
 },{
   title:'字体',
   title_en:'Font',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'font',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/font'
@@ -871,7 +871,7 @@ const css=[{
 },{
   title:'文本',
   title_en:'Text',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'line-height',
     url:'https://developer.mozilla.org/en-US/docs/Web/CSS/line-height'
@@ -918,7 +918,7 @@ const css=[{
 },{
   title:'文本装饰',
   title_en:'Text Decoration',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'text-decoration',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/text-decoration'
@@ -938,7 +938,7 @@ const css=[{
 },{
   title:'书写模式',
   title_en:'Writing Modes',
-  color:'rgb(196, 154, 77)',
+  color:'#a0d468',
   list:[{
     item:'direction',
     url:'https://developer.mozilla.org/zh-CN/docs/CSS/direction'
